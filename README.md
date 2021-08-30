@@ -10,7 +10,7 @@ Web Scraping em Python + Streamlit
 
 ##
 
-### Sobre o projeto
+### Sobre o projeto 💻
 
 Desenvolvimento de uma ferramenta simples para extrair dados do IBGE e realizar algumas análises. É um projeto com fins educacionais, para aprender e colocar em prática novas habilidades.
 
