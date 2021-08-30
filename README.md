@@ -1,14 +1,18 @@
 <h4 align="center"> 
-	Web Scraping em Python + Streamlit
+Web Scraping em Python + Streamlit
   
-  Em andamento 🚧
+(Em andamento 🚧)
+	
+<img align="center" alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Streamlit" height="40" width="50" src="https://streamlit.io/images/brand/streamlit-mark-color.svg">
 </h4>
+
 
 ##
 
 ### Sobre o projeto
 
-Desenvolvimentod de uma ferramenta simples para extrair dados do IBGE e realizar algumas análises. É um projeto com fins educacionais, para aprender e colocar em prática novas habilidades.
+Desenvolvimento de uma ferramenta simples para extrair dados do IBGE e realizar algumas análises. É um projeto com fins educacionais, para aprender e colocar em prática novas habilidades.
 
 ##
 
@@ -19,13 +23,15 @@ Desenvolvimentod de uma ferramenta simples para extrair dados do IBGE e realizar
  
 #### Análises geradas
  <img src="./Imagens/heatmap.jpg" alt="Heatmap">
+ <img src="./Imagens/scatter_rend.jpg" alt="Scatter">
+
 
 
 ##
 
 ### Instalação
 
- Este projeto requer as seguintes bibliotecas:
+ Este projeto requer Python na versão 3.8 e as seguintes bibliotecas:
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
@@ -37,10 +43,18 @@ Desenvolvimentod de uma ferramenta simples para extrair dados do IBGE e realizar
 
 ##
 
-### Rodando o app
+### Rodando a aplicação
 
 Em um terminal, vá até o diretório onde está localizado o projeto/script e execute o seguinte comando:
 ```bash
 streamlit run webscraping_streamlit.py
 ```
 Em seguida, uma guia será aberta já rodando a aplicação.
+
+## 
+
+### Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/89742058?v=4" width=115><br>](https://github.com/lucasmendoncca)|
+| :---: |
+<a href = "mailto:lucas.souza4213@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
